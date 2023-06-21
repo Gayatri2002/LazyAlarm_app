@@ -2,7 +2,7 @@
 # Hi, I'm Gayatri! 
 Here is my first android project 'LazyAlarm'. Get all the information about my project here. Below is the APK link of the app, you can install it in your mobile and use it.
 
-[App's APK link](https://carfinderdataproject.herokuapp.com/)
+[App's APK link](https://drive.google.com/file/d/16AbK31XoBL6DLdBo9DhrZlIfaPx9rX1Y/view?usp=sharing)
 # LazyAlarm
 
 Every night we set alarm for the next day and when the alarm rings we look at the time and think we can sleep for more 15minutes and snooze the alarm but your snooze is fixed for 5 minutes only. So it rings after every 5 minutes even though you can sleep for whole 15 minutes more. Isn't it very disturbbing everyday for our precious sleep? That is why I have made this LazyAlarm App which has three snooze buttons - 5 min Snooze, 15 min Snooze and 30 min Snooze. These are the standard time periods that we snooze. So when your alarm rings you have 3 oprions, according to your need you can directly click on one of the buttons and sleep for more time without unwanted or disturbing short snoozes.
