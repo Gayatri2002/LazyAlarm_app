@@ -51,6 +51,7 @@ Open Android studio and open project directory. For running the app you need to 
 
 [CarFinder Demonstration Video](https://1drv.ms/v/s!Am250_ZUlrWBgRXvsJ3IDoKDtJME?e=ZJgwzS)
 
+https://github.com/Gayatri2002/LazyAlarm_app/assets/84678828/f3d9dc70-b609-4c1a-bdd3-8e90d308f0f7
 
 ## Roadmap
 - Build the layout for the app in android studio
