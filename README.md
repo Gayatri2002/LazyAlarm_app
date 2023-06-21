@@ -1,5 +1,5 @@
 # LazyAlarm_app
-# Hi, I'm Gayatri! 👋
+# Hi, I'm Gayatri! 
 Here is my first android project 'LazyAlarm'. Get all the information about my project here. Below is the APK link of the app, you can install it in your mobile and use it.
 
 [App's APK link](https://carfinderdataproject.herokuapp.com/)
@@ -49,8 +49,6 @@ Open Android studio and open project directory. For running the app you need to 
 
 ## Demonstration video
 
-[CarFinder Demonstration Video](https://1drv.ms/v/s!Am250_ZUlrWBgRXvsJ3IDoKDtJME?e=ZJgwzS)
-
 https://github.com/Gayatri2002/LazyAlarm_app/assets/84678828/f3d9dc70-b609-4c1a-bdd3-8e90d308f0f7
 
 ## Roadmap
@@ -76,28 +74,17 @@ https://github.com/Gayatri2002/LazyAlarm_app/assets/84678828/f3d9dc70-b609-4c1a-
 
 ## Tech Stack
 
-**Languages Used:** Python, HTML
+**Languages Used:** Java, XML
 
-**Framework:** streamlit
+**Software:** Android Studio
 
 ## Usage
-This is a data analysis project that will benefit everyone who wants to sell or purchase a car, as well as sales and digital marketing teams in the automotive sector who want to do research. For sales and digital marketing teams in the automotive business, the car information, sales dashboard, and website performance tab from the website are useful.
-In the following ppt and video the project idea and it's uses are explained.
-
-[Project PPT link](https://www.canva.com/design/DAFB_cbevI4/PuffPOhnvq9TzimRI4geOA/view?utm_content=DAFB_cbevI4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
-[Video link](https://1drv.ms/v/s!Am250_ZUlrWBgRXvsJ3IDoKDtJME?e=ZJgwzS)
+LazyAlarm App which has three snooze buttons - 5 min Snooze, 15 min Snooze and 30 min Snooze. These are the standard time periods that we snooze. So when your alarm rings you have 3 oprions, according to your need you can directly click on one of the buttons and sleep for more time without unwanted or disturbing short snoozes.
 
 
 ## Used By
 
-This project can be used by the following people:
-
-- One who wants to sell or purchase car
-- Sales teams in automotive industry
-- Digital marketing teams in automotive industry
-- Those who want to do have information about cars in their city
-- Those who want to get best price for selling their second hand car 
+All the people who love their precious sleep. Because with sound sleep only you will be able to work all day without being tired.
 
 
 ## Contributing
@@ -116,10 +103,8 @@ Mail ID - gayatrikalyani44@gmail.com
 
 ## Acknowledgments
 
-* [Streamlit docs](https://docs.streamlit.io/)
+* [Android Studio](https://developer.android.com/)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Lottiefiles Animations](https://lottiefiles.com/featured)
-* [Power BI for data visualization](https://powerbi.microsoft.com/en-au/)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
