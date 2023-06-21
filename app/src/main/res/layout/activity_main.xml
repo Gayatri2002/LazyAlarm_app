@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_vertical"
+    android:background="@drawable/alarm3"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select \nTime"
+        android:id="@+id/selectTime"
+        android:textAlignment="center"
+        android:textSize="40sp"
+        android:layout_marginTop="165dp"
+        android:layout_gravity="center_horizontal"
+        android:textColor="@color/white"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/setAlarm"
+            android:textSize="20sp"
+            android:padding="8dp"
+            android:layout_marginStart="40dp"
+            android:layout_marginTop="190dp"
+            android:text="Set \nAlarm"/>
+
+        <Button
+            android:id="@+id/cancelAlarm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="190dp"
+            android:layout_marginEnd="40dp"
+            android:padding="8dp"
+            android:text="Cancel \nAlarm"
+            android:textSize="20sp" />
+
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/buttonLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <Button
+            android:id="@+id/btnSnooze5Min"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Snooze 5 Min"
+            android:onClick="onSnooze5MinClicked"/>
+
+        <Button
+            android:id="@+id/btnSnooze15Min"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Snooze 15 Min"
+            android:onClick="onSnooze15MinClicked"/>
+
+        <Button
+            android:id="@+id/btnSnooze30Min"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Snooze 30 Min"
+            android:onClick="onSnooze30MinClicked"/>
+
+    </LinearLayout>
+
+</LinearLayout>
