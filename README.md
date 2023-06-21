@@ -69,12 +69,8 @@ Open Android studio and open project directory. For running the app you need to 
 
 ## Screenshots
 
-![Screenshot (577)](https://user-images.githubusercontent.com/84678828/170862212-f06de3a5-f493-438e-8a67-c56efc9e7eff.png)
-
-
-![website performance ss](https://user-images.githubusercontent.com/84678828/170862237-b259021e-4398-4092-9bb1-2d61282958eb.png)
-
-![sales ss](https://user-images.githubusercontent.com/84678828/170862246-f80f2a0d-6065-4b96-bb8f-73d1cff4634a.png)
+![s2](https://github.com/Gayatri2002/LazyAlarm_app/assets/84678828/5a309441-8354-4f34-bda1-ff9630c71d5d)
+![s3](https://github.com/Gayatri2002/LazyAlarm_app/assets/84678828/d80a90e3-5b1d-4649-a90b-2bdfa9f3dc93)
 
 
 ## Tech Stack
