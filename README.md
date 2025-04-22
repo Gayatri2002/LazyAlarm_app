@@ -1,5 +1,5 @@
 # LazyAlarm_app
-# Hi, I'm Gayatri! 
+# Hi, I'm Gayatri Kalyani! 
 Here is my first android project 'LazyAlarm'. Get all the information about my project here. Below is the APK link of the app, you can install it in your mobile and use it.
 
 [App's APK link](https://drive.google.com/file/d/16AbK31XoBL6DLdBo9DhrZlIfaPx9rX1Y/view?usp=sharing)
